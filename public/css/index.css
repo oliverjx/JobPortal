@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+.hero-image {
+    position: relative;
+    height: 60vh;
+    background-image: url("../img/hero-image.jpg");
+    
+}

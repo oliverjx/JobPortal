@@ -1,0 +1,1 @@
+<?php /**PATH /Users/ollie/Downloads/JobPortal/resources/views/components/footer.blade.php ENDPATH**/ ?>

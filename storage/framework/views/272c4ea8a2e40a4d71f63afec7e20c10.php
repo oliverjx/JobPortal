@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\melny\OneDrive\Documentos\Xampp\htdocs\JobPortal\resources\views/components/footer.blade.php ENDPATH**/ ?>
